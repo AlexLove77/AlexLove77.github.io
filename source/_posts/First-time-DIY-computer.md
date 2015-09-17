@@ -1,6 +1,10 @@
 title: 第一次DIY组装机 (ITX 小主机)
 date: 2015-09-15 12:09:57
-tags:
+categories:
+- life
+tags: 
+- 硬件
+- 生活
 ---
 
 其实一个月以前就应该写了, 但是因为**懒+拖延症**..
@@ -10,8 +14,10 @@ tags:
 在[中关村硬件DIY论坛](http://bbs.zol.com.cn/diybbs/ '中关村硬件DIY论坛'),  [艾泽拉斯国家地理论坛PC软硬件版](http://bbs.ngacn.cc/thread.php?fid=334 '艾泽拉斯国家地理论坛PC软硬件版') 以及某宝某东混了几天后, 终于选好配置, 说通家里领导(其实是她看我太可怜了, 被我软磨硬泡太久, 虽然一直没理解但是默许了..), 着手**解毒**了!
 
 因为租的房间实在太小, 只有一个 73*50 的小书桌, 所以决定组装的是一个ITX规格的小主机, 放在桌面上 ~~装逼~~ 美观好看, 而且以后搬家带着也方便, 性能也达到我需求了.
+<!--more-->
 
 ***
+
 ### 配置单如下:
 | 名称	| 型号												|
 | :-----| :-------------------------------------------------|
@@ -21,47 +27,49 @@ tags:
 | 显卡	| Inno3d/映众 GTX750Ti黑金至尊版 (2G DDR5)				|
 | 硬盘	| Samsung/三星 MZ-75E250B/CN 850 EVO 250G 固态硬盘	|
 | 机箱	| 乔思伯C2 全铝机箱									|
-| 电源	| 超频三驱逐者S400									|
+| 电源	| 超频三驱逐者S400 (额定300W, 峰值400W)					|
 | 显示器	| AOC显示器 I2279VW/WS 21.5/22寸 IPS					|
 | 音箱	| Edifier/漫步者 R10U USB供电多媒体音响					|
 | 键盘	| 森松尼K1 黑轴										|
 | 鼠标	| 用以前的地狱狂蛇										|
 
 所有均够于某宝, 方便转运到HK. 总价4000+ RMB.
+
 ***
+
 ### 作业如下
 * 首先来张全家福：
-![All_devices](./blogimg/20150915_AllDevices.JPG '全家福')
+![All_devices](/blogimg/20150915_AllDevices.JPG '全家福')
 
 * 乔思伯C2 包装：
-![All_devices](./blogimg/20150915_case1.JPG '乔思伯C2 包装')
+![case1](/blogimg/20150915_case1.JPG '乔思伯C2 包装')
 
 * 乔思伯C2 开箱侧面：
-![All_devices](./blogimg/20150915_case2.JPG '乔思伯C2 开箱侧面')
+![case2](/blogimg/20150915_case2.JPG '乔思伯C2 开箱侧面')
 
 * 乔思伯C2 开箱侧面：
-![All_devices](./blogimg/20150915_case3.JPG '乔思伯C2 开箱侧面')
+![case3](/blogimg/20150915_case3.JPG '乔思伯C2 开箱侧面')
 
 * 技嘉 GA-B85N Phoenix-WIFI 主板：
-![All_devices](./blogimg/20150915_motherboard1.JPG '技嘉 GA-B85N Phoenix-WIFI 主板')
+![motherboard1](/blogimg/20150915_motherboard1.JPG '技嘉 GA-B85N Phoenix-WIFI 主板')
 
 * 技嘉 GA-B85N Phoenix-WIFI 主板：
-![All_devices](./blogimg/20150915_motherboard2.JPG '技嘉 GA-B85N Phoenix-WIFI 主板')
+![motherboard2](/blogimg/20150915_motherboard2.JPG '技嘉 GA-B85N Phoenix-WIFI 主板')
 
 * INTEL I3-4160 盒装：
-![All_devices](./blogimg/20150915_cpu1.JPG 'INTEL I3-4160 盒装')
+![cpu1](/blogimg/20150915_cpu1.JPG 'INTEL I3-4160 盒装')
 
 * INTEL I3-4160 盒装：
-![All_devices](./blogimg/20150915_cpu2.JPG 'INTEL I3-4160 盒装')
+![cpu2](/blogimg/20150915_cpu2.JPG 'INTEL I3-4160 盒装')
 
 
 * 显卡, 机械硬盘啥的装的紧张了忘拍了
 
 * 开机测试中:
-![All_devices](./blogimg/20150915_process.JPG '开机测试中')
+![process](/blogimg/20150915_process.JPG '开机测试中')
 
 * ~~装逼~~ 装机完毕:
-![All_devices](./blogimg/20150915_finish.JPG '装机完毕')
+![finish](/blogimg/20150915_finish.JPG '装机完毕')
 
 乔思伯C2这款机箱确实性价比不错, 但是只能装22cm以下的显卡,我的显卡标称是18cm, 但是侧插的电源线, 放进去还是很费劲的, 而且小心割手, 我只是有划破皮, 没见红~
 

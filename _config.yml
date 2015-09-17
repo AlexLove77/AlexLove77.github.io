@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Alex's Place
+title: Alex's Blog
 subtitle:
-description:
+description: 奋斗不息, 热爱生活
 author: Alex
 language:
 timezone:
@@ -37,6 +37,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+archive: 1
 highlight:
   enable: true
   line_number: true
