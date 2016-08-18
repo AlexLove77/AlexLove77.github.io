@@ -8,11 +8,11 @@ subtitle:
 description: 奋斗不息, 热爱生活
 author: Alex
 language: en
-timezone:
+timezone: Asia/Hong_Kong
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://alexlove77.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,3 +73,5 @@ deploy:
   repository: git@github.com:AlexLove77/AlexLove77.github.io.git
   branch: master
   message: hexo deploy
+
+google_analytics: UA-82761231-1
