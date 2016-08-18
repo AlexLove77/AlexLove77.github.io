@@ -1,8 +1,9 @@
+---
 title: 第一次DIY组装机 (ITX 小主机)
 date: 2015-09-15 12:09:57
 categories:
 - life
-tags: 
+tags:
 - 硬件
 - 生活
 ---
@@ -39,37 +40,37 @@ tags:
 
 ### 作业如下
 * 首先来张全家福：
-![All_devices](/blogimg/20150915_AllDevices.JPG '全家福')
+![All_devices](/images/20150915_AllDevices.JPG '全家福')
 
 * 乔思伯C2 包装：
-![case1](/blogimg/20150915_case1.JPG '乔思伯C2 包装')
+![case1](/images/20150915_case1.JPG '乔思伯C2 包装')
 
 * 乔思伯C2 开箱侧面：
-![case2](/blogimg/20150915_case2.JPG '乔思伯C2 开箱侧面')
+![case2](/images/20150915_case2.JPG '乔思伯C2 开箱侧面')
 
 * 乔思伯C2 开箱侧面：
-![case3](/blogimg/20150915_case3.JPG '乔思伯C2 开箱侧面')
+![case3](/images/20150915_case3.JPG '乔思伯C2 开箱侧面')
 
 * 技嘉 GA-B85N Phoenix-WIFI 主板：
-![motherboard1](/blogimg/20150915_motherboard1.JPG '技嘉 GA-B85N Phoenix-WIFI 主板')
+![motherboard1](/images/20150915_motherboard1.JPG '技嘉 GA-B85N Phoenix-WIFI 主板')
 
 * 技嘉 GA-B85N Phoenix-WIFI 主板：
-![motherboard2](/blogimg/20150915_motherboard2.JPG '技嘉 GA-B85N Phoenix-WIFI 主板')
+![motherboard2](/images/20150915_motherboard2.JPG '技嘉 GA-B85N Phoenix-WIFI 主板')
 
 * INTEL I3-4160 盒装：
-![cpu1](/blogimg/20150915_cpu1.JPG 'INTEL I3-4160 盒装')
+![cpu1](/images/20150915_cpu1.JPG 'INTEL I3-4160 盒装')
 
 * INTEL I3-4160 盒装：
-![cpu2](/blogimg/20150915_cpu2.JPG 'INTEL I3-4160 盒装')
+![cpu2](/images/20150915_cpu2.JPG 'INTEL I3-4160 盒装')
 
 
 * 显卡, 机械硬盘啥的装的紧张了忘拍了
 
 * 开机测试中:
-![process](/blogimg/20150915_process.JPG '开机测试中')
+![process](/images/20150915_process.JPG '开机测试中')
 
 * ~~装逼~~ 装机完毕:
-![finish](/blogimg/20150915_finish.JPG '装机完毕')
+![finish](/images/20150915_finish.JPG '装机完毕')
 
 乔思伯C2这款机箱确实性价比不错, 但是只能装22cm以下的显卡,我的显卡标称是18cm, 但是侧插的电源线, 放进去还是很费劲的, 而且小心割手, 我只是有划破皮, 没见红~
 
