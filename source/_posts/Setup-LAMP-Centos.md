@@ -22,7 +22,7 @@ Java   | JDK8 |
 
 ### Add Remi's RPM Repository
 
-```bash
+```
 # if there is no epel repo
 wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 sudo rpm -Uvh epel-release-latest-7*.rpm
@@ -33,7 +33,7 @@ sudo rpm -Uvh remi-release-7.rpm
 ```
 ### Install Apache (httpd)
 
-```bash
+```
 sudo yum install httpd
 
 sudo systemctl start httpd.service		# or sudo service httpd start
@@ -44,7 +44,7 @@ Server built:   Jul 18 2016 15:30:14
 
 ### Install MySQL
 
-```bash
+```
 # add mysql yum repo
 wget http://dev.mysql.com/get/mysql57-community-release-el7-8.noarch.rpm
 sudo rpm -Uvh mysql57-community-release-el7-8.noarch.rpm
@@ -68,7 +68,7 @@ mysql  Ver 14.14 Distrib 5.6.32, for Linux (x86_64) using  EditLine wrapper
 
 ### Install PHP7 and Modules
 
-```bash
+```
 sudo yum --enablerepo=remi-php70 install php php-mbstring php-xml php-pdo php-mysql
 
 php -v
@@ -83,7 +83,7 @@ Composer official site: https://getcomposer.org
 
 Manually install
 
-```bash
+```
 # download latest snapshot
 wget https://getcomposer.org/composer.phar
 
@@ -105,7 +105,7 @@ According to the official guide, [Java (JVM) version](https://www.elastic.co/gui
 
 >The version of Java to use can be configured by setting the JAVA_HOME environment variable.
 
-```bash
+```
 # oracle jdk 8u102
 
 # Note: If you would like to install a different release of Oracle Java 8 JDK,
@@ -137,7 +137,7 @@ OpenJDK 64-Bit Server VM (build 25.101-b13, mixed mode)
 
 #### MySQL Import Tuning
 
-At the beginning, login mysql bash, then run following commands:
+At the beginning, login mysql , then run following commands:
 
 ```sql
 SET autocommit=0;
@@ -158,7 +158,7 @@ As centos enable SELinux as default, and SELinux is preventing httpd from read a
 
 **Note**: if cloud server disable the SELinux or allow relevant httpd services, the following commands doesn't need, so try to see SELinux status first.
 
-```bash
+```
 # show se status
 sestatus
 
@@ -193,7 +193,7 @@ Official site: https://developers.google.com/speed/pagespeed/module/
 
 >A full list of ports that services are permitted access by SELinux can be obtained with:
 
-```bash
+```
 sudo semanage port -l
 
 # grep http ports
