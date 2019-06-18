@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://alexlove77.github.io/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/archives/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/2019/06/18/ngingx-reverse-proxy-https/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/categories/study/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/2018/11/23/ssh-port-forwarding/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/2018/11/22/Setup-LNMP-Ubuntu/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/2017/05/17/Git-pull-request/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/2016/10/24/Supervisor-Setup-Guide/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/2016/08/18/Setup-LAMP-Centos/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/2015/09/15/First-time-DIY-computer/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/categories/life/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/tags/Nginx/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/tags/ssh/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/tags/Linux/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/tags/git/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/tags/Python/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/tags/Supervisor/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/tags/%E7%A1%AC%E4%BB%B6/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://alexlove77.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+  <lastmod>2019-06-18T07:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
